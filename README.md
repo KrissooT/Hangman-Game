@@ -122,12 +122,10 @@ This project demonstrates:
 
 ## 👤 Author
 
-Your Name
-[GitHub Profile](https://github.com/KrissooT)
+[KrissooT](https://github.com/KrissooT)
 
 ---
 
 ## ⭐ If you like this project
 
 Give it a star ⭐ — it helps a lot!
-~630 lines
